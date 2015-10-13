@@ -1,3 +1,5 @@
+* 2015/Oct/12
+    * 2km running
 * 2015/Oct/11
     * 21 Pull-ups
     * 94 Push-ups
