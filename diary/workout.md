@@ -1,3 +1,6 @@
+* 2015/Oct/18
+    * 145 Sit-ups
+    * 22 Pull-ups
 * 2015/Oct/17
     * 96 Push-ups
 * 2015/Oct/12
