@@ -1,3 +1,6 @@
+* 2015/Oct/25
+    * 22 Pull-ups
+    * 101 Push-ups
 * 2015/Oct/24
     * 80 front/side/back shoulders
     * 197 Sit-ups
