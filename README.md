@@ -1,4 +1,9 @@
 # Introduction
 This book summarizes the daily life. 
 <br>It means that this is my diary!
-<br>Go to [Summary](./SUMMARY.md).
+
+# Summary
+* [Daily Diary](diary/diary.md)
+* [Daily Learning](diary/learn.md)
+* [Daily Workouts](diary/workout.md)
+* [Events](diary/events.md)
